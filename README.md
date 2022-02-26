@@ -3,7 +3,7 @@
 
 ![angry vending machine wants code](https://i.imgur.com/Q55IADN.jpeg)
 
-<p> This vending machine does it all*!</p>
+<p> This vending machine does it all!*</p>
 <p>- Takes a .txt file of inventory and reads it</p>
 <p>- Displays the inventory items</p>
 <p>- Allows the user to purchase those items</p>
