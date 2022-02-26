@@ -1,7 +1,7 @@
 ## Vending Machine Application
 ### A Lindsey and Abi Collab
 
-![angry vending machine wants code](https://imgur.com/a/uvpRWct"FEED ME CODE")
+![angry vending machine wants code](https://imgur.com/gallery/uvpRWct"FEED ME CODE")
 
 <p> This vending machine does it all*!</p>
 - Takes a .txt file of inventory and reads it
